@@ -32,7 +32,7 @@
  ### Todos arquivos utilizados para a construção deste projeto estão neste repositório.
 
   - app_pycaret_ligth_gbm → é o aplicativo extensão .py usado para rodar o streamlit
-  - credit_scoring.ftr → é a base de dados que é usada para alimentar o streamlit para que as previsões sejam feitas
+  - credit_scoring_comprimido → é a base de dados que é usada para alimentar o streamlit para que as previsões sejam feitas e está comprimido devido a seu tamanho exceder 25Mb
   - model_final_lgbm_17_10_2024.pkl → é o arquivo .pkl que armazena todo o memorial de calculo do algorítimo de machine-learning para realizar as devidas previsões na base
   - Projeto_de_credit_scoring → é o arquivo Jupyter Notebook onde está todo o estudo feito para a criação final do projeto
 
